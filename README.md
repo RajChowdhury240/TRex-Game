@@ -4,5 +4,4 @@
 
 ##  Preview of The App
 
-![https://cdn-images-1.medium.com/max/1600/1*BadLUm5ZzpcS34eTVQAz5g.gif](https://cdn-images-1.medium.com/max/1600/1*BadLUm5ZzpcS34eTVQAz5g.gif)
-
+![alt img](https://miro.medium.com/max/370/1*BoO4YXf6zYI45BIWEhd7BQ.gif)
